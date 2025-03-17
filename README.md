@@ -9,7 +9,21 @@ Easy-to-use Gradio interface.
 
 Usage
 Upload an image by clicking on the "Select Image" button.
+
 The application will detect objects and draw bounding boxes with labels on the image.
+
 The output image will be displayed with the detected objects.
+
+Requirements
+
+Check requirements.txt for all dependencies.
+
+Requirements.txt
+
+transformers
+
+Pillow
+
+gradio
 
 Developed by Velloresyed Arifulla.
